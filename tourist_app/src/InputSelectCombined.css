@@ -1,0 +1,10 @@
+select#selectoption {
+    border-left:none;
+    padding:none;
+}
+
+input#datahere {
+    position:relative;
+    border-right:none;
+    padding:none;
+}
